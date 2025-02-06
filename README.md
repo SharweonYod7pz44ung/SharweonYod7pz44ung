@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm SharweonYod7pz44ung
 
-<!--
-**SharweonYod7pz44ung/SharweonYod7pz44ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 🏏 A fan of databases 🎬 🏏
 
-Here are some ideas to get you started:
+## About Me
+🏑 🛶 A professional in algorithms 🏑 🛶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎣 🎯 🌺 Interested in developer advocacy 🎣 🎯 🌺
+
+### Fun Facts
+🌍 🎮 🎸 Looking to collaborate on computer vision 🌍 🎮 🎸
+
+---
+🎹 🏏 🏑 🏊 🎾 Thanks for visiting my profile! 🛼 🎬 🏒 🎭 🌺
